@@ -1,35 +1,40 @@
 # Campus-Placement-Preparation :
-Hi Folks, glad to see you here! In this doc, I'll share the study material which I used to prepare for my campus placements. I'll try to cover as many aspects and I hope this will help all the students prepare for their first full-time job (either through Campus Placements or Applying Off-Campus). If you are planning to apply for a job in the coming years, this doc will help you, and if you have gone through that phase, I request you to contribute, please; this will help our juniors.
+Hi Folks, glad to see you here! In this doc, I'll share the study material which I used to prepare for my campus placements. I'll try to cover as many aspects and I hope this will help all the students prepare for their first full-time job (either through Campus Placements or Applying Off-Campus). If you are planning to apply for a job in the coming years, this doc will help you, and if you have gone through that phase, I request you to contribute; this will help our juniors.
+Please note that in this dic, I have shared the study material. I have shared the non-academic strategies here: [My Campus Placement Experience and my Strategies](http://bit.ly/PlacementPrepMedium). In this blog, I have talked about some niche techniques that I used to prepare for my exams. Let me know how you feel about it and if you have any comments/suggestions, please reach out to me at: go4pratham0897@gmail.com
 
 ### A brief about myself:
 As of December 2020, I am a final year undergraduate student at the Department of Chemical Engineering, IIT Roorkee. I'm a Software Developer, and my areas of interest are Security, Cloud, and the Internet of Foods. I have offers from Oracle, Cisco, and Amazon, and I have decided to move forward with Oracle. I have worked at Cisco in Silicon Valley for one year under the Cisco International Internship Programme. Before that, I went for an internship in Cloud Computing at IIT Kharagpur. Like my friends, I wasn't sure of building a career in software right from the start of my college, and I started off exploring Chemical Engineering (Industry and Research). I have published a research paper in Bioenergy. I was invited to present my work at the International Conference (fully funded :p). Later I explored Interdisciplinary Research and gradually shifted to Software Development, and that's when my journey started (~ at the end of my second year). CSec takes up most of my free time. If you are into security, we'll vibe :p.
 
 ### How Campus Placements look like at IITs
-Before the strategy, let me brief you about the placement process. It starts around September/October. The first few weeks are for Resume building and Verification. This typically involves gathering all the certificates and documents about the achievements that a student wants to write in his/her resume. I personally believe IITR has a strict verification process and a student has to prove everything except his name, branch, year, and cgpa. After this, companies start visiting the campus and organize a Pre-Placement Talk (PPT). After the PPT, they organize tests/competitions depending upon the job profile they are offering. These competitions could range from group discussions to guestimates to submitting assignments. These things i.e.the PPTs and the tests for different companies happen in parallel and could happen at any point in time in a day. Some of my friends who applied in international positions had to attend PPTs even after midnight, and sometimes as early as 4 AM. The same happens with the tests as well. This happens for months (typically till mid-December). Meanwhile, after the second week of November, companies start to announce the list of students who have made through the tests and are shortlisted for interviews. They also announce the waitlisted students, but all the interviews happen together starting December 1st at midnight, with the exceptions of the PSUs (these may happen any day earlier). Interviews happen in slots, and each slot has multiple companies, and their interviews happen in parallel. A student can have two interviews at the same time, but he has to manage it by himself, also the placements teams are quite supportive in this as well. Before every interview slot, each student has to fill in the priority form for the companies interviewing in a particular slot in case a student gets multiple offers from the same slot. Once a student gets an offer, he has to accept it and he is out of the placement session.
+It starts around September/October. The first few weeks are for Resume building and Verification. This typically involves gathering all the certificates and documents about the achievements that a student wants to write in his/her resume. I personally believe IITR has a strict verification process and a student has to prove everything except his name, branch, year, and cgpa. After this, companies start visiting the campus and organize a Pre-Placement Talk (PPT). After the PPT, they organize tests/competitions depending upon the job profile they are offering. These competitions could range from group discussions to guestimates to submitting assignments. These things i.e.the PPTs and the tests for different companies happen in parallel and could happen at any point in time in a day. Some of my friends who applied in international positions had to attend PPTs even after midnight, and sometimes as early as 4 AM. The same happens with the tests as well. This happens for months (typically till mid-December). Meanwhile, after the second week of November, companies start to announce the list of students who have made through the tests and are shortlisted for interviews. They also announce the waitlisted students, but all the interviews happen together starting December 1st at midnight, with the exceptions of the PSUs (these may happen any day earlier). Interviews happen in slots, and each slot has multiple companies, and their interviews happen in parallel. A student can have two interviews at the same time, but he has to manage it by himself, also the placements teams are quite supportive in this as well. Before every interview slot, each student has to fill in the priority form for the companies interviewing in a particular slot in case a student gets multiple offers from the same slot. Once a student gets an offer, he has to accept it and he is out of the placement session.
 
 ## Campus Placement Preparation (Software) (&#x1F4D8;):
 
-No doubt, getting a decent job in the software will ask you for your problem-solving skills and coding skills, but that's not enough. There are some qualities like teamwork, leadership, communication skills, among others, are also crucial. While these are critical skills, I believe there are more skills, and they are very important. Patience and persistence. Students must not get over-excited if they perform great in some contests/exams and they should be consistent enough all throughout. Sometimes, the best coders might not make it to them. This could be due to many reasons; maybe they couldn't make it in the aptitude round or lacked soft skills. Aptitude plays a key role in some of the companies. One big challenge students face is that they do not follow a proper structure; rather, they rely on random blogs, videos for their preparation. Even I have faced this issue. To help the next generation, I will try to put down all the useful resources in this repo, which I found very useful while preparing for my campus placements.
+No doubt, getting a decent job in the software will requre good problem-solving coding skills, but that's not enough. There are some qualities like teamwork, leadership, communication skills, among others, which are also crucial. While these are critical skills, I believe there are more skills, and they are very important, Patience and Persistence. Students must not get over-excited if they perform great in some contests/exams and they should be consistent enough all throughout. Sometimes, the best coders might not make it to them. This could be due to many reasons; maybe they couldn't make it in the aptitude round or lacked soft skills. Aptitude plays a key role in some of the companies. Also, the placement process usually takes about 4 months in most of the colleges, patience is very important as it helps in persisted improvement. One big challenge students face is that they do not follow a proper structure; rather, they rely on random blogs, videos for their preparation. Even I have faced this issue. To help the next generation, I will try to put down all the useful resources in this repo, which I found very useful while preparing for my campus placements.
+Since I prepared for softeware roles, all the details presented in this doc are inclined towards preparing for software roles.
 
-I have talked about my preparation strategies here: [My Campus Placement Experience and my Strategies](http://bit.ly/PlacementPrepMedium). In this blog, I tried to share as many minute details as I can. I hope you find it useful; pls give this repo a star if it deserves :p All the best.
+Also I have talked about my preparation strategies here: [My Campus Placement Experience and my Strategies](http://bit.ly/PlacementPrepMedium). In this blog, I tried to share as many minute details as I can. I hope you find it useful; pls give this repo a star if it deserves :p All the best.
 
 ## IT company requirements (&#x1F4D6;) :
-- Communication skills (How you speak in the interview)
-- Presentation skills (How you explain your previous work)
-- General Aptitude (Aptitude tests and your approach in interview)
-- Coding skills (The way you code)
-- Data structure and Algorithm (Most important)
-- Operating system (asked in 20% tests and in interviews)
-- Database Management (asked in 20% tests and in interviews)
-- Computer Network (asked in 10% tests and in interviews)
-- Basic Linux and Unix (asked in 5% tests and in interviews)
-- Basic System Design (OPTIONAL)
+Here's a broad breakdown that I feel are required for successful preparation for placements:
+- **Communication skills** -> how you speak in the interview
+- **Presentation skills** -> how you explain your previous work
+- **General Aptitude** -> aptitude tests and your approach in interview
+- **Coding skills** -> the way you code
+- **Data structure and Algorithm** -> Most Important
+- **Operating system** -> asked in 20% tests and in interviews
+- **Database Management** -> asked in 20% tests and in interviews
+- **Computer Network** -> asked in 10% tests and in interviews
+- **Basic Linux and Unix** -> asked in less than 5% tests and in interviews
+- **Basic System Design** -> OPTIONAL 
+  <br><br>
+**One key thing I would like to emphasize here is that having a good understanding of Data Dtructures and Algorithms is very important but may not be sufficient for some companies like Uber, Codenation, Alphonse among others. These companies also look for your coding style, which I'll disucss later in this doc.**
 
 <!-- - [Coding Interview Questions](https://www.interviewbit.com/coding-interview-questions) -->
 
 
 ## Communication skills
-  It includes a video series about English and communication skills. Companies usually skip communication test in top colleges of India. Ignore this section if you have a good hold of English.
+  It includes a video series about English and communication skills. Companies usually skip communication test in tier 1 and tier 2 colleges of India. Ignore this section if you have a good hold of English.
    - [Soft skills and English](https://www.youtube.com/watch?v=fDRnKPyvR14&list=PLd3UqWTnYXOn4m3paVPj6JTCTESkltDao)
          
 ## Presentation skills
@@ -37,19 +42,27 @@ I have talked about my preparation strategies here: [My Campus Placement Experie
    - [Job Interview Skills](https://www.youtube.com/watch?v=iqeghm8Uut8)
   
 ## General Aptitude
-    The following links will help increase hold on general aptitude. If you are targeting software companies, I'd recommend practicing aptitude for few hours once every week, and that's more than enough.
-   - [Quantitative Aptitude tricks](https://www.youtube.com/watch?v=xRZc_m__Q7M)
+    The following links will help increase hold on general aptitude. Some of the software companies and almost all the banks require these skills. If you are targeting software companies, I'd recommend practicing aptitude for few hours once every week, and that's more than enough. Practicing Aptitude will give you an edge over others and it helps in Coding Contests as well.
+   - [Quantitative Aptitude tricks YT](https://www.youtube.com/watch?v=xRZc_m__Q7M)
    - [AKAgarwalAptitude YT series for Aptitude](https://www.youtube.com/watch?v=tqEIQJzY6co&list=PLY3DFj1jjj0URoyHOnxuau6l0EgzOtoHI)
-   - [IndiaBix: For practice](https://www.indiabix.com/)
+   - [IndiaBix: For practice](https://www.indiabix.com/) Practice here for atleast an hour per week.
 
 ## Coding in any Programming languge
-   Once, you have decided to go with a particular language, the following link will guide on how to setup an environment. While, there are a lot of online IDE for practice, I'd recommend using one locally and save your code snippets.
-   - [Java](https://www.youtube.com/watch?v=Hl-zzrqQoSE&list=PLFE2CE09D83EE3E28)
-   - [Python](https://www.youtube.com/watch?v=HBxCHonP6Ro&list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
-   - [Cpp: CodingBlocks](https://www.youtube.com/watch?v=tvC1WCdV1XU&list=PLAE85DE8440AA6B83)
+   Decide a particular language you would like to work on. Keep following points in mind while you decide:
+   * Most of the students use c++ and if you go with c++, you can actively discuss with your peers and share codes when you practice.
+   * It has STL library which includes all the data structures you would be using in your contests
+   * STL library in c++ is optimized and you have to worry less about the time complexity of those operations
+   * Python is relatively slow and there are more chances of getting a Time Limit Exceed (TLE) error as compared to c++
+   * Python is simple, straighforward and less strict than c++. You don't have to worry about the data types and overflows while working in python. However, you might have to keep track of multiple ibraries for different data structures
+   * Python is used extensively for Data Analysis, so learning python might give you an edge there
+
+While, there might of tonns of arguments, I personnaly believe c++ is a better option for Competitive Programming (CP). It have similarities with multiple languages like Java, JS, microprocessor programming( Arduino). Also, if a student is comfortable with a language, it is very easy to get hold of another.<br>
+Once, you have decided to go with a particular language, the following link will guide on how to setup an environment. While, there are a lot of online IDE for practice, I'd recommend using one locally (I prefer VSCode as it has many Add-Ons) and save your code snippets.
+   - [Tutorial Point](http://www.tutorialspoint.com/) Will guide you through the basic of the language
    - [Cpp: VSCode](https://www.youtube.com/watch?v=77v-Poud_io)
-   - [Online compiler](https://ideone.com/)
-   - [Tutorial Point: Will guide you through the basic of the language](http://www.tutorialspoint.com/)
+   - [Cpp: CodingBlocks](https://www.youtube.com/watch?v=tvC1WCdV1XU&list=PLAE85DE8440AA6B83)
+   - [Python](https://www.youtube.com/watch?v=HBxCHonP6Ro&list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
+   - [Java](https://www.youtube.com/watch?v=Hl-zzrqQoSE&list=PLFE2CE09D83EE3E28)
    - [Online compiler](https://ideone.com/)
 
 ## C++
