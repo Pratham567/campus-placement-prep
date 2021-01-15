@@ -16,16 +16,16 @@ Since I prepared for softeware roles, all the details presented in this doc are 
 Also I have talked about my preparation strategies here: [My Campus Placement Experience and my Strategies](http://bit.ly/PlacementPrepMedium). In this blog, I tried to share as many minute details as I can. I hope you find it useful; pls give this repo a star if it deserves :p All the best.
 
 ## IT company requirements (&#x1F4D6;) :
-Here's a broad breakdown that I feel are required for successful preparation for placements:
+Here's a broad breakdown that I feel are required for successful preparation for placements. I'll discuss each section in detail later:
 - **Communication skills** -> how you speak in the interview
 - **Presentation skills** -> how you explain your previous work
 - **General Aptitude** -> aptitude tests and your approach in interview
 - **Coding skills** -> the way you code
 - **Data structure and Algorithm** -> Most Important
-- **Operating system** -> asked in 20% tests and in interviews
-- **Database Management** -> asked in 20% tests and in interviews
-- **Computer Network** -> asked in 10% tests and in interviews
-- **Basic Linux and Unix** -> asked in less than 5% tests and in interviews
+- **Operating Systems** -> asked in 20% tests and in 30% interviews
+- **Database Management Systems** -> asked in 20% tests and in 30% interviews
+- **Computer Networks** -> asked in 10% tests and in 20% interviews
+- **Basic Unix Commands** -> asked in less than 5% tests and in interviews
 - **Basic System Design** -> OPTIONAL 
   <br><br>
 **One key thing I would like to emphasize here is that having a good understanding of Data Dtructures and Algorithms is very important but may not be sufficient for some companies like Uber, Codenation, Alphonse among others. These companies also look for your coding style, which I'll disucss later in this doc.**
@@ -65,24 +65,43 @@ Once, you have decided to go with a particular language, the following link will
    - [Java](https://www.youtube.com/watch?v=Hl-zzrqQoSE&list=PLFE2CE09D83EE3E28)
    - [Online compiler](https://ideone.com/)
 
-## C++
-    Since, I used cpp, here are some of the links that will help you train DSA in cpp.
-   - [C++ Tricks](https://www.youtube.com/watch?v=ZcdiwXtS6MM)
-   - 
-   - [STL- 1](https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-1/)
-   - [STL -2](https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-2/)
-   - [C++ STL: YT Bo Qian](https://www.youtube.com/playlist?list=PL5jc9xFGsL8G3y3ywuFSvOuNm3GjBwdkb)
-   
-<br>Other Links (Optional)
-   - [cpp Nuts: Topic wise videos](https://www.youtube.com/channel/UCs6sf4iRhhE875T1QjG3wPQ/join)
-   - 
+## C++ STL
+    Since, I used cpp, here are some of the links that will help you train DSA in cpp. Also, I've added a link to my template which I used to use as a base to any problem I used to solve. It has pre-defined macros and basic functions that are used in most of the problems, so it can be used to save time.
+   - [C++ STL: YT Bo Qian](https://www.youtube.com/playlist?list=PL5jc9xFGsL8G3y3ywuFSvOuNm3GjBwdkb) -> Short Videos on STL
+   - [STL- 1: topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-1/) -> blog
+   - [STL -2: topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-2/) -> blog
+   - [C++ Tricks: YT](https://www.youtube.com/watch?v=ZcdiwXtS6MM)
+   - [Pratham's Template: To Be Added]()
 
+<br>
+    Other Links (Optional)
+<br>
+
+   - [cpp Nuts: Topic wise videos](https://www.youtube.com/channel/UCs6sf4iRhhE875T1QjG3wPQ/join)
 ## DS and Algo
+    This is the **Most Important** section and is a must do for every programmers, as it opens up the various insights about programming. Below are some of the links that I used as reference during my preparations. These are the most important Data Structures to be studied:
+* Arrays
+* Strings
+* Linked Lists
+* Stacks and Queues
+* Trees
+* Heaps
+* Recursion
+* Hashing
+* Graph
+* Greedy
+* Dynamic Programming
+* Divide and Conquer
+* Backtracking
+* Bit Magic
+
+<br>
+    I'll try to point out the specific topics that I referenced, as going through everything would unnecessarily suck up time.
+
+   - [YT: TechDose](https://www.youtube.com/c/TECHDOSE4u/playlists)
    - [Youtube:Terrible Whiteboard, for leetcode problems](https://www.youtube.com/c/TerribleWhiteboard/playlists)
    - [YT: Errichto](https://www.youtube.com/c/Errichto/playlists): He explains great
    - [mycodeschool: YT](https://www.youtube.com/user/mycodeschool/playlists)
-   - [YT: TechDose](https://www.youtube.com/c/TECHDOSE4u/playlists)
-   - 
    - [60 must solve problems for placements](https://medium.com/@koheiarai94/60-leetcode-questions-to-prepare-for-coding-interview-8abbb6af589e)
    - [Code Monk HackerEarth](https://www.hackerearth.com/practice/codemonk/)
    - [Programming Interview](https://www.youtube.com/watch?v=NBcqBddFbZw&list=PLamzFoFxwoNjPfxzaWqs7cZGsPYy0x_gI)
@@ -123,6 +142,7 @@ Once, you have decided to go with a particular language, the following link will
    -  [OOPS Interview Questions](https://www.edureka.co/blog/interview-questions/oops-interview-questions/)
    -  [Link-2](https://www.geeksforgeeks.org/commonly-asked-oop-interview-questions/)
 ## Interview
+This section would highlight the essentials that are required for interviews. The best time to go through these links is about 1 month before the actual interviews (November if you're from an IIT, because interviews starts in December). This should be done in parllel to your current preparations and as the interview approaches, put in more time to it:
    - [Must do Coding Interview for Companies](https://www.geeksforgeeks.org/must-coding-questions-company-wise/#oracle)
    - [Top 20 DP interview questions](https://www.geeksforgeeks.org/top-20-dynamic-programming-interview-questions/)
    - [Interview Tips and Tricks(Resume)](https://www.youtube.com/playlist?list=PLrk5tgtnMN6RsjCaAndmEQJSIjx__7fDq)
@@ -138,8 +158,10 @@ Once, you have decided to go with a particular language, the following link will
    - [Do's and Dont's of system design interview](https://www.youtube.com/watch?v=CtmBGH8MkX4&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX&index=24)
    - [After Preparation](https://www.youtube.com/watch?v=pkrzrURID1w&list=PLi01XoE8jYoj2mHt0EFT3B6UJ1g_I33LS)
    - [Fight Imposter Syndrome](https://www.youtube.com/watch?v=JtGBDv1Jwmc&list=PLi01XoE8jYoj2mHt0EFT3B6UJ1g_I33LS&index=5)
+   - [YT Jenny's: Job Interview MISTAKES everyone makes](https://www.youtube.com/watch?v=DUthrBoaADo&list=PLdo5W4Nhv31YvlDpJhvOYbM9Ap8UypgEy&index=20)
 
 ## Cloud Dev Interview
+Since, I have done internships in Cloud, I studied this as part of preparation for my interviews. While this may not be required for all the students, but the following video highlights the latest development techonologies, which could be a great point to discuss in your interviews. However, the student has to find a spot on where to bring up these points as the interviewer may not bring it up by himself:
    -  [Dev-Prod Parity](https://vomtom.at/local-development-vs-virtual-box-vs-vagrant-vs-container-vs-docker-and-kubernetes/)
 
 
@@ -164,26 +186,6 @@ Once, you have decided to go with a particular language, the following link will
   - 
 ## The pref flow, based on which year a student is currently in;
    TBD
-
-## Topics (DS ALGO)
-   Arrays<br>
-   Strings <br>
-   Linked List <br>
-   Stack and Queue <br>
-   Trees <br>
-   Heaps <br>
-   Recursion <br>
-   Hashing <br>
-   Graph <br> 
-   Greedy <br>
-   Dynamic Programming <br>
-   Divide and Conquer <br>
-   Backtracking <br>
-   Bit Magic
-
-
-## Aptitude, Reasoning, Prob & stats
-   - [INDIABIX](http://indiabix.com/)
 
 ## SQL
    - [W3Schools](https://www.w3schools.com/sql/)
