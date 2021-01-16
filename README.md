@@ -69,7 +69,7 @@ Once, you have decided to go with a particular language, the following link will
    - [Cpp: CodingBlocks](https://www.youtube.com/watch?v=tvC1WCdV1XU&list=PLAE85DE8440AA6B83)
    - [Python](https://www.youtube.com/watch?v=HBxCHonP6Ro&list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
    - [Java](https://www.youtube.com/watch?v=Hl-zzrqQoSE&list=PLFE2CE09D83EE3E28)
-   - [Online compiler](https://ideone.com/)
+   - [Online compiler: Ideone](https://ideone.com/)
 
 ## C++ STL
     Since, I used cpp, here are some of the links that will help you train DSA in cpp. Also, I've added a link to my template which I used to use as a base to any problem I used to solve. It has pre-defined macros and basic functions that are used in most of the problems, so it can be used to save time.
@@ -103,37 +103,52 @@ Once, you have decided to go with a particular language, the following link will
 * Bit Magic
 
 <br>
-    I'll try to point out the specific topics that I referenced, as going through everything would unnecessarily suck up time.
+    Competitive Programming (CP) is all about practice. You learn a lot when you practice. here are some links you coud use for theory, but ultimately what matters is your practice. I'll try to point out the specific topics that I referenced, as going through everything would unnecessarily suck up time.
 
-   - [mycodeschool: YT](https://www.youtube.com/user/mycodeschool/playlists) Must Watch. All his playlists are great.
+   - [Data Structures and Algorithms: YT mycodeschool](https://www.youtube.com/user/mycodeschool/playlists) Must Watch. All his playlists are great.
+   - [Data Structure tutorial](https://www.hackerearth.com/practice/data-structures/arrays/1-d/tutorial/) Read as you practice.
    - [YT: TechDose](https://www.youtube.com/c/TECHDOSE4u/playlists) This guys explains the concepts and problem solutions beautifully. I have watched almost all of his videos.
    - [YT: Aditya Verma](https://www.youtube.com/channel/UC5WO7o71wvxMxEtLRkPhiQQ) Go through his DP playlist, he explains in Hindi but approach is nice. He relates the problems with one another.
    - [Tushor roy](https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw) His DP playlist is good, but sometimes he doesn't explain the logic properly. His DP playlist has a set of important problems. I would recommend having a clear understamding of all thos problems. If these videos aren't clear, try researching the internet.
+   - [GFG](https://www.geeksforgeeks.org/) The Bible of CP. Read the articles now and then whenever you have time.
    - [YT: Errichto](https://www.youtube.com/c/Errichto/playlists): He explains great. Refer him if you want in depth understanding of a topic
-   - [Code Monk HackerEarth](https://www.hackerearth.com/practice/codemonk/)
-   - [Programming Interview](https://www.youtube.com/watch?v=NBcqBddFbZw&list=PLamzFoFxwoNjPfxzaWqs7cZGsPYy0x_gI)
-   - [GFG](https://www.geeksforgeeks.org/)
-   - [Gaurav sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw/playlists)
-   - [Abdul Bari: Concepts and Algos](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw)
-   - [Advance Programming concept](https://www.youtube.com/watch?v=vZ2Wn6Ly8Ok&list=PL713C10F05D6BB7BF)
-   - [Data Structure tutorial](https://www.hackerearth.com/practice/data-structures/arrays/1-d/tutorial/)
-   - [Algorithm Tutorial](https://www.hackerearth.com/practice/algorithms/searching/linear-search/tutorial/)
-   - [Advance Ds and Algo](https://e-maxx.ru/algo/)
-   - [Miscellaneous-1](https://www.youtube.com/channel/UCICWIYEx2mo4wYZzLwJ7wVw/playlists), [Miscellaneous-2](https://www.youtube.com/user/mycodeschool)
-   - [Online Platform to Practice-1](https://www.hackerearth.com/practice/), [Online Platform to Practice-2](https://www.interviewbit.com/), [Online Platform to Practice-3](https://www.codechef.com/problems/school)
-   - [Important Problems and Solutions with approach](https://www.youtube.com/c/TECHDOSE4u/playlists)
-   - [Graphs: Hackerearth](https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/tutorial/)
+   - [Abdul Bari: Concepts and Algos](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw) Nice Explanation, but he doesn't provides code. Refer him, if you want to get an understanding of an algorithm
+   - [Graphs: Hackerearth](https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/tutorial/) Skip the last few topics
+   - [Algorithm Tutorials and Practice: hackerearth](https://www.hackerearth.com/practice/algorithms/)
+   - [YT: Code N Code](https://www.youtube.com/channel/UC0zvY3yIBQTrSutsV-4yscQ) This channel is good for learning Graph Theory
    - [Code N Code YT](https://www.youtube.com/channel/UC0zvY3yIBQTrSutsV-4yscQ/playlists)
-   - [GFG Must Do](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/)
-   - [GFG Practice Arena](https://practice.geeksforgeeks.org/explore/?page=1)
-   - [New YT Channel](https://www.youtube.com/channel/UC8CHx7QxLADQcwq-9X_fftQ)
+   - [DSA: YT Coding By Fun](https://www.youtube.com/channel/UC8CHx7QxLADQcwq-9X_fftQ) This is a new YT channel and has explains properly
    - [Inverse Modulo](https://www.geeksforgeeks.org/multiplicative-inverse-under-modulo-m/)
-   - [YT: Code N Code: good for graphs](https://www.youtube.com/channel/UC0zvY3yIBQTrSutsV-4yscQ)
-   - [Youtube:Terrible Whiteboard, for leetcode problems](https://www.youtube.com/c/TerribleWhiteboard/playlists)
+   - [Coding Blocks: YT](https://www.youtube.com/channel/UCICWIYEx2mo4wYZzLwJ7wVw/playlists) 
+   - [Advance Ds and Algo](https://e-maxx.ru/algo/) This link has some advance algos. I rarely used this link
+   - [Youtube:Terrible Whiteboard, for leetcode problems](https://www.youtube.com/c/TerribleWhiteboard/playlists) Leetcode problems solution. Refer this if you are stuck at a particular LC problem or if you couldn't understand the logic properly
+   - [System Design: YT Gaurav sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw/playlists) His system Design playlist is nice. But it is rarely asked in the coding tests and interviews. Study this only if you have previous work experience in such field.
 
+## Graph Theory
+   -  [How can I be good at graph theory based programming problems in competitive programming](https://www.quora.com/How-can-I-be-good-at-graph-theory-based-programming-problems-in-competitive-programming/answer/Pushkar-Mishra?srid=uW2Yh)
+   - [Graphs: Hackerearth](https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/tutorial/) Skip the last few topics
+   -  [Visual Algo](https://visualgo.net/en) This website visually explains the graph theory
+   -  [Graph Theory Overview: YT Code NCode](https://www.youtube.com/watch?v=VW85xQ6GJP4&list=PL2q4fbVm1Ik6DCzm9XZJbNwyHtHGclcEh)
+   -  [Doscjoint Set: YT Code NCode](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik4JdzE2Bv_UUGBz0TXEIrai) Important Topic, used invarious graph theory algorithms
+  The following are some important Graph Theory Problems
+   -  [Eulerian Path directed graph](https://www.geeksforgeeks.org/fleurys-algorithm-for-printing-eulerian-path/?ref=rp)
+   -  [Eulerian Path undirected](https://www.geeksforgeeks.org/eulerian-path-undirected-graph/) 
+   -  [Eulerian Path & Circuit undirected](https://www.geeksforgeeks.org/eulerian-path-and-circuit/)
+   -  [Hamiltonian Path]()
+
+## Practice Coding Problems
+Competitive Programming is all about practice. The more you practice, more better you are at it. Here are some of the material which I used to practice during my prepration:
+   - [InterviewBit](https://www.interviewbit.com/courses/programming/) Very Very Important. Complete the course in a span of about 2-3 months. I'd recommend going through the course once again after you've completed all the sections. While solving problems, try to give some time and solve by yourself. If you take more than 30 minutes and could not reach to the solution, read the discussion panel or access hints. Most of the problems are important and you might find it hard to solve it in the first attempt, don't let yourself down. There are some hard problems, and remember you don;t have to by-heart all the problems, try to understand the logic.
+   - [GFG Must Do](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/) Very Important. Start solving these problems once you have completed the interviewbit ptoblems
+   - [60 must solve problems for placements](https://medium.com/@koheiarai94/60-leetcode-questions-to-prepare-for-coding-interview-8abbb6af589e) Important practice Problems
+   - [GFG Practice](https://practice.geeksforgeeks.org/topic-tags/?ref=home) Practice here everyday, once you have a good hold of your DSA concepts.
+   - [Code Monk HackerEarth](https://www.hackerearth.com/practice/codemonk/) Practice here if you find practicing on GFG monotonous.
+   - [Online Platform to Practice- hackerearth](https://www.hackerearth.com/practice/) try to solve some problems randomly if you are not confident in a particular topic
+   - [Online Platform to Practice- codechef](https://www.codechef.com/problems/school) try to solve some problems randomly if you are not confident in a particular topic
 ## OS
    - [Link-1](https://www.youtube.com/watch?v=2i2N_Qo_FyM&list=PLEbnTDJUr_If_BnzJkkN_J0Tl3iXTL8vq)
    - [Link-2](https://www.youtube.com/watch?v=nZRqPctQf8U&list=PLTZbNwgO5ebqnympIYe2GX4hjjsS9Psdm) 
+   - [Practice MCQs](https://foxoyo.com/mcq/20765/if-a-kernel-thread-performs-a-blocking-system-call)
    - [Hand written notes pdf](https://drive.google.com/file/d/1vF4gEE35remfvht_NYNCbsqhFNH1Opba/view?usp=sharing)
    
 ## DBMS
@@ -142,16 +157,31 @@ Once, you have decided to go with a particular language, the following link will
    - [Link-3](https://www.youtube.com/watch?v=iuwIxX1523s&list=PLy6I8jhggOX47RFnEaMSxrrBBIsUqkW64)
    - [Crash Course](https://www.youtube.com/watch?v=u163_uYy6Yw&feature=emb_logo)
    - [Link-5](https://www.interviewbit.com/tutorial/sql-command-help/)
-   - [SQL DB vs NoSQL DB](https://www.youtube.com/watch?v=xQnIN9bW0og)
+   - [SQL DB vs NoSQL DB](https://www.youtube.com/watch?v=xQnIN9bW0og) Important
+   - [SQL: W3Schools](https://www.w3schools.com/sql/)
+   - [SQL: GradeUp Notes](https://gradeup.co/computer-science-engineering-exams/databases)
   
 ## OOPS
    -  [OOPS Interview Questions](https://www.edureka.co/blog/interview-questions/oops-interview-questions/)
    -  [Link-2](https://www.geeksforgeeks.org/commonly-asked-oop-interview-questions/)
 
-## Interview
-This section would highlight the essentials that are required for interviews. The best time to go through these links is about 1 month before the actual interviews (November if you're from an IIT, because interviews starts in December). This should be done in parllel to your current preparations and as the interview approaches, put in more time to it:
+## Computer Networking
+Not eevery Company will ask question on this. Skip this part if ou are running out of time. However for networking comanies like Cisco, studying this is a must. There's a very famous question when it comes to networking: <br>
+**What happens when you typr in a URL in you browser and press enter. Tak about the protocols used as you go along?** <br>
+Some links to study Computer Networks:
+   - [Youtube: Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx)
+   - [GateSmasher: YT](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_) Go through the playlist, you can skip last few videos if things get complex
+   - [GradeUp Notes](https://gradeup.co/computer-science-engineering-exams/computer-networks)
+   - [Top Interview Questions](https://www.guru99.com/networking-interview-questions.html)
+   - [GFG Commonly Asked Networking Questions](https://www.geeksforgeeks.org/commonly-asked-computer-networks-interview-questions-set-1/)
+   - [Practice MCQs](https://compsciedu.com/mcq-questions/Networking/Network-Models/10)
+   - [Practice MCQs](https://www.sanfoundry.com/computer-networks-mcqs-reference-models/)
+
+## Interview Practice
+This section would highlight the essentials that are required for interviews. The best time to go through these links is about 1 month before the actual interviews (November if you're from an IIT, because interviews starts in December). This should be done in parllel to your current preparations and as the interview approaches, put in more time to it. Most if the material will seems to be already covered and could be seen as for revision:
    - [Must do Coding Interview for Companies](https://www.geeksforgeeks.org/must-coding-questions-company-wise/#oracle)
    - [Top 20 DP interview questions](https://www.geeksforgeeks.org/top-20-dynamic-programming-interview-questions/)
+   - [Programming Interview Questions: YT IDeserve](https://www.youtube.com/playlist?list=PLamzFoFxwoNjPfxzaWqs7cZGsPYy0x_gI)
    - [Interview Tips and Tricks: Coding Ninjas](https://www.youtube.com/playlist?list=PLrk5tgtnMN6QkNhdIiClZIhxJGwzCEVv9)
    - [Interview Experience: Coding Ninjas](https://www.youtube.com/playlist?list=PLrk5tgtnMN6Q_mSckdtLgaMIs5ygMqy-3)
    - [Interview Problems](https://www.youtube.com/watch?v=lqYz8wlTnL0&feature=emb_logo)
@@ -166,7 +196,6 @@ This section would highlight the essentials that are required for interviews. Th
    - [Do's and Dont's of system design interview](https://www.youtube.com/watch?v=CtmBGH8MkX4&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX&index=24) Such Questions are rarely asked in campus placements. Study this only if you have previous internship experience in a related field
    - [Capacity Estimation Problem](https://www.youtube.com/watch?v=0myM0k1mjZw&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX&index=13) Such Questions are rarely asked
 
-
 ## Other Links
   - [LeetCode-Topicwise-Solutions](https://github.com/black-shadows/LeetCode-Topicwise-Solutions)
   - [IB Solutions](https://github.com/shreya367/InterviewBit)
@@ -177,41 +206,12 @@ This section would highlight the essentials that are required for interviews. Th
   - [HackerRank Solutions](https://www.martinkysel.com/hackerrank-solutions/)
   - [Jenny's YT](https://www.youtube.com/c/JennyslecturesCSITNETJRF/playlists)
 
-## Graph Theory
-   -  [YT: Code NCode](https://www.youtube.com/watch?v=VW85xQ6GJP4&list=PL2q4fbVm1Ik6DCzm9XZJbNwyHtHGclcEh)
-   -  [Eulerian Path directed graph](https://www.geeksforgeeks.org/fleurys-algorithm-for-printing-eulerian-path/?ref=rp)
-   -  [Eulerian Path undirected](https://www.geeksforgeeks.org/eulerian-path-undirected-graph/) 
-   -  [Eulerian Path & Circuit undirected](https://www.geeksforgeeks.org/eulerian-path-and-circuit/)
-   -  [Hamiltonian Path]()
-   -  [Visual Algo](https://visualgo.net/en) This website visually explains the graph theory
-   -  [How can I be good at graph theory based programming problems in competitive programming](https://www.quora.com/How-can-I-be-good-at-graph-theory-based-programming-problems-in-competitive-programming/answer/Pushkar-Mishra?srid=uW2Yh)
-   -  
-## Practice Coding Problems
-   - [60 must solve problems for placements](https://medium.com/@koheiarai94/60-leetcode-questions-to-prepare-for-coding-interview-8abbb6af589e)
-   - [GFG Practice](https://practice.geeksforgeeks.org/topic-tags/?ref=home) 
-
-
 ## Other important Links
    -  [Link 1](https://www.geeksforgeeks.org/suffix-array-set-1-introduction/)
    -  [Likn-2](https://www.geeksforgeeks.org/count-distinct-substrings-string-using-suffix-trie/)
    -  [Link-3](https://www.geeksforgeeks.org/count-distinct-substrings-string-using-suffix-array/)
    -  [Link-4](https://www.geeksforgeeks.org/find-maximum-subset-xor-given-set/)
    -  [Link-5](https://www.geeksforgeeks.org/find-the-maximum-subarray-xor-in-a-given-array/)
-
-## SQL
-   - [W3Schools](https://www.w3schools.com/sql/)
-   - [GradeUp Notes](https://gradeup.co/computer-science-engineering-exams/databases)
-
-## Computer Networking
-   - [Youtube: Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx)
-   - [GradeUp Notes](https://gradeup.co/computer-science-engineering-exams/computer-networks)
-   - [Top Interview Questions](https://www.guru99.com/networking-interview-questions.html)
-   - [GFG Commonly Asked Networking Questions](https://www.geeksforgeeks.org/commonly-asked-computer-networks-interview-questions-set-1/)
-   - [Practice MCQs](https://compsciedu.com/mcq-questions/Networking/Network-Models/10)
-   - [Practice MCQs](https://www.sanfoundry.com/computer-networks-mcqs-reference-models/)
-   
-## OS MCQs
-   - [Practice MCQs](https://foxoyo.com/mcq/20765/if-a-kernel-thread-performs-a-blocking-system-call)
 
 ## References
    -  [CodeChef: Learn Data Structures and Algorithms](https://www.codechef.com/certification/data-structures-and-algorithms/prepare)  
