@@ -22,6 +22,7 @@ Here's a broad breakdown that I feel are required for successful preparation for
 - **General Aptitude** -> aptitude tests and your approach in interview
 - **Coding skills** -> the way you code
 - **Data structure and Algorithm** -> Most Important
+- **Object Oriented Programming (OOPs)** -> Important, typically asked in coding interviews
 - **Operating Systems** -> asked in 20% tests and in 30% interviews
 - **Database Management Systems** -> asked in 20% tests and in 30% interviews
 - **Computer Networks** -> asked in 10% tests and in 20% interviews
@@ -30,7 +31,6 @@ Here's a broad breakdown that I feel are required for successful preparation for
   <br><br>
 **One key thing I would like to emphasize here is that having a good understanding of Data Dtructures and Algorithms is very important but may not be sufficient for some companies like Uber, Codenation, Alphonse among others. These companies also look for your coding style, which I'll disucss later in this doc.**
 
-<!-- - [Coding Interview Questions](https://www.interviewbit.com/coding-interview-questions) By the end of the preparation, should have solved all these questions-->
 ## Resume
    - [Link-1](https://www.youtube.com/channel/UCZJlMUYdbtzQ8tVfLvK1KvQ)
    - [Employment Skills](https://www.thebalancecareers.com/employment-skills-listed-by-job-2062389)
@@ -38,6 +38,7 @@ Here's a broad breakdown that I feel are required for successful preparation for
 ## Placement Series
 Before you actually start working on your coding skills, I'd recommend going through this playlist. Most of the videos in this series are generic and could be skipped
   -  [Jenny's Placement Series](https://www.youtube.com/playlist?list=PLdo5W4Nhv31YvlDpJhvOYbM9Ap8UypgEy)
+  -  [YT: take U forward](https://www.youtube.com/channel/UCJskGeByzRRSvmOyZOz61ig/playlists) He has good placement Series.
 
 ## Communication skills
   It includes a video series about English and communication skills. Companies usually skip communication test in tier 1 and tier 2 colleges of India. Ignore this section if you have a good hold of English.
@@ -117,12 +118,12 @@ Once, you have decided to go with a particular language, the following link will
    - [Algorithm Tutorials and Practice: hackerearth](https://www.hackerearth.com/practice/algorithms/)
    - [YT: Code N Code](https://www.youtube.com/channel/UC0zvY3yIBQTrSutsV-4yscQ) This channel is good for learning Graph Theory
    - [Code N Code YT](https://www.youtube.com/channel/UC0zvY3yIBQTrSutsV-4yscQ/playlists)
+   - [CodeChef: Learn Data Structures and Algorithms](https://www.codechef.com/certification/data-structures-and-algorithms/prepare)  
    - [DSA: YT Coding By Fun](https://www.youtube.com/channel/UC8CHx7QxLADQcwq-9X_fftQ) This is a new YT channel and has explains properly
    - [Inverse Modulo](https://www.geeksforgeeks.org/multiplicative-inverse-under-modulo-m/)
    - [Coding Blocks: YT](https://www.youtube.com/channel/UCICWIYEx2mo4wYZzLwJ7wVw/playlists) 
    - [Advance Ds and Algo](https://e-maxx.ru/algo/) This link has some advance algos. I rarely used this link
    - [Youtube:Terrible Whiteboard, for leetcode problems](https://www.youtube.com/c/TerribleWhiteboard/playlists) Leetcode problems solution. Refer this if you are stuck at a particular LC problem or if you couldn't understand the logic properly
-   - [System Design: YT Gaurav sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw/playlists) His system Design playlist is nice. But it is rarely asked in the coding tests and interviews. Study this only if you have previous work experience in such field.
 
 ## Graph Theory
    -  [How can I be good at graph theory based programming problems in competitive programming](https://www.quora.com/How-can-I-be-good-at-graph-theory-based-programming-problems-in-competitive-programming/answer/Pushkar-Mishra?srid=uW2Yh)
@@ -145,6 +146,12 @@ Competitive Programming is all about practice. The more you practice, more bette
    - [Code Monk HackerEarth](https://www.hackerearth.com/practice/codemonk/) Practice here if you find practicing on GFG monotonous.
    - [Online Platform to Practice- hackerearth](https://www.hackerearth.com/practice/) try to solve some problems randomly if you are not confident in a particular topic
    - [Online Platform to Practice- codechef](https://www.codechef.com/problems/school) try to solve some problems randomly if you are not confident in a particular topic
+
+## OOPs
+Typically asked in Interviews, but one of the most important important topics:
+   -  [OOPS Interview Questions](https://www.edureka.co/blog/interview-questions/oops-interview-questions/)
+   -  [Link-2](https://www.geeksforgeeks.org/commonly-asked-oop-interview-questions/)
+
 ## OS
    - [Link-1](https://www.youtube.com/watch?v=2i2N_Qo_FyM&list=PLEbnTDJUr_If_BnzJkkN_J0Tl3iXTL8vq)
    - [Link-2](https://www.youtube.com/watch?v=nZRqPctQf8U&list=PLTZbNwgO5ebqnympIYe2GX4hjjsS9Psdm) 
@@ -161,12 +168,8 @@ Competitive Programming is all about practice. The more you practice, more bette
    - [SQL: W3Schools](https://www.w3schools.com/sql/)
    - [SQL: GradeUp Notes](https://gradeup.co/computer-science-engineering-exams/databases)
   
-## OOPS
-   -  [OOPS Interview Questions](https://www.edureka.co/blog/interview-questions/oops-interview-questions/)
-   -  [Link-2](https://www.geeksforgeeks.org/commonly-asked-oop-interview-questions/)
-
 ## Computer Networking
-Not eevery Company will ask question on this. Skip this part if ou are running out of time. However for networking comanies like Cisco, studying this is a must. There's a very famous question when it comes to networking: <br>
+Not every Company will ask question on this. Skip this part if ou are running out of time. However for networking comanies like Cisco, studying this is a must. There's a very famous question when it comes to networking: <br>
 **What happens when you typr in a URL in you browser and press enter. Tak about the protocols used as you go along?** <br>
 Some links to study Computer Networks:
    - [Youtube: Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx)
@@ -176,6 +179,20 @@ Some links to study Computer Networks:
    - [GFG Commonly Asked Networking Questions](https://www.geeksforgeeks.org/commonly-asked-computer-networks-interview-questions-set-1/)
    - [Practice MCQs](https://compsciedu.com/mcq-questions/Networking/Network-Models/10)
    - [Practice MCQs](https://www.sanfoundry.com/computer-networks-mcqs-reference-models/)
+
+## Some Other Important Problems
+   -  [P:1](https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/jenny-and-water-7-d0337cc3-ec2c1136/)
+   -  [P:2](https://leetcode.com/discuss/interview-question/783699/recycling-cartridges-oa-hackerrank)
+   -  [P:3](https://leetcode.com/problems/minimum-cost-to-merge-stones/)
+   -  [P:4](https://leetcode.com/discuss/interview-question/783699/recycling-cartridges-oa-hackerrank)
+   -  [P:5](https://leetcode.com/discuss/interview-question/386726/Binary-String-flip-to-Zero-string-or-ThoughtSpot/347614)
+   -  [P:6](https://leetcode.com/discuss/interview-question/353827/Google-or-Onsite-or-Shortest-Path-Breaking-Through-Walls/)
+   -  [P:7](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/)
+   -  [P:8](https://leetcode.com/discuss/interview-question/386866/Interesting-question-or-Shortest-weighted-path-with-at-most-1-or-ThoughtSpot/347619)
+   -  [P:9](https://leetcode.com/discuss/interview-question/892579/paint-the-ceiling-swe-hackerrank-test)
+   -  [P:10](https://www.hackerearth.com/problem/algorithm/killjee-and-2-divisors-1-6d590ba7-6a701fb0/)
+   -  [P:11](https://leetcode.com/problems/interleaving-string/)
+   -  [P:12](https://leetcode.com/problems/graph-connectivity-with-threshold/)
 
 ## Interview Practice
 This section would highlight the essentials that are required for interviews. The best time to go through these links is about 1 month before the actual interviews (November if you're from an IIT, because interviews starts in December). This should be done in parllel to your current preparations and as the interview approaches, put in more time to it. Most if the material will seems to be already covered and could be seen as for revision:
@@ -193,8 +210,6 @@ This section would highlight the essentials that are required for interviews. Th
    - [Common Mistakes in Technical Onsite Interviews](https://www.geeksforgeeks.org/top-5-common-mistakes-in-technical-on-site-interviews/)
    - [Fight Imposter Syndrome](https://www.youtube.com/watch?v=JtGBDv1Jwmc&list=PLi01XoE8jYoj2mHt0EFT3B6UJ1g_I33LS&index=5) Very Important
    - [YT Jenny's: Job Interview MISTAKES everyone makes](https://www.youtube.com/watch?v=DUthrBoaADo&list=PLdo5W4Nhv31YvlDpJhvOYbM9Ap8UypgEy&index=20)
-   - [Do's and Dont's of system design interview](https://www.youtube.com/watch?v=CtmBGH8MkX4&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX&index=24) Such Questions are rarely asked in campus placements. Study this only if you have previous internship experience in a related field
-   - [Capacity Estimation Problem](https://www.youtube.com/watch?v=0myM0k1mjZw&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX&index=13) Such Questions are rarely asked
 
 ## Other Links
   - [LeetCode-Topicwise-Solutions](https://github.com/black-shadows/LeetCode-Topicwise-Solutions)
@@ -205,20 +220,12 @@ This section would highlight the essentials that are required for interviews. Th
   - [Problem-Solving-Solutions](https://github.com/joy-mollick/Problem-Solving-Solutions) This has solutions to problems of Leetcode, HackerEarth, Codeforces, Light Oj, SPOJ, e-Olymp.
   - [HackerRank Solutions](https://www.martinkysel.com/hackerrank-solutions/)
   - [Jenny's YT](https://www.youtube.com/c/JennyslecturesCSITNETJRF/playlists)
-
-## Other important Links
    -  [Link 1](https://www.geeksforgeeks.org/suffix-array-set-1-introduction/)
    -  [Likn-2](https://www.geeksforgeeks.org/count-distinct-substrings-string-using-suffix-trie/)
    -  [Link-3](https://www.geeksforgeeks.org/count-distinct-substrings-string-using-suffix-array/)
    -  [Link-4](https://www.geeksforgeeks.org/find-maximum-subset-xor-given-set/)
    -  [Link-5](https://www.geeksforgeeks.org/find-the-maximum-subarray-xor-in-a-given-array/)
-
-## References
-   -  [CodeChef: Learn Data Structures and Algorithms](https://www.codechef.com/certification/data-structures-and-algorithms/prepare)  
    -  [L:2](https://docs.google.com/document/d/16Po_AFpfi-S-rkX2qwllCMjPHeqxz8LnfnF0y7dzSDo/edit)
-## Other 
-   - [Youtube: GateSmasher, just before interview](https://www.youtube.com/playlist?list=PLxCzCOWd7aiFjkQbGj_yHeTEVPn422_z5) I studied OS, DBMS, Networks from this
-   - [YT: take U forward](https://www.youtube.com/channel/UCJskGeByzRRSvmOyZOz61ig/playlists) He has good placement Series.
 
 ## Cloud Dev Interview
 Since, I have done internships in Cloud, I studied this as part of preparation for my interviews. While this may not be required for all the students, but the following video highlights the latest development techonologies, which could be a great point to discuss in your interviews. However, the student has to find a spot on where to bring up these points as the interviewer may not bring it up by himself:
@@ -228,30 +235,24 @@ Since, I have done internships in Cloud, I studied this as part of preparation f
    - [Kumulus YT Channel](https://www.youtube.com/channel/UCDns3t_P5wuPNSvMaHwTeLQ)
    - [Tom Gregory: YT: Scaling Dev Productivity](https://www.youtube.com/channel/UCxOVEOhPNXcJuyfVLhm_BfQ/videos)
    - [Cloud Security](https://www.youtube.com/playlist?list=PLOspHqNVtKACfjqfEwR3iKz1gJILKj5Tn)
-## TBD
-   -  [L:1](https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/jenny-and-water-7-d0337cc3-ec2c1136/)
-   -  [L:2](https://leetcode.com/discuss/interview-question/783699/recycling-cartridges-oa-hackerrank)
-   -  [L:3](https://leetcode.com/problems/minimum-cost-to-merge-stones/)
-   -  [L;4](https://leetcode.com/discuss/interview-question/783699/recycling-cartridges-oa-hackerrank)
-   -  [L:5](https://leetcode.com/discuss/interview-question/386726/Binary-String-flip-to-Zero-string-or-ThoughtSpot/347614)
-   -  [L:6](https://leetcode.com/discuss/interview-question/353827/Google-or-Onsite-or-Shortest-Path-Breaking-Through-Walls/)
-   -  [L:7](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/)
-   -  [L:8](https://leetcode.com/discuss/interview-question/386866/Interesting-question-or-Shortest-weighted-path-with-at-most-1-or-ThoughtSpot/347619)
-   -  [L:9](https://leetcode.com/discuss/interview-question/892579/paint-the-ceiling-swe-hackerrank-test)
-   -  [L:10](https://www.hackerearth.com/problem/algorithm/killjee-and-2-divisors-1-6d590ba7-6a701fb0/)
-   -  [L:11](https://leetcode.com/problems/interleaving-string/)
-
 
 ## Data Science Interview Questions
+Study this only if ou have done an intership or have worked on a project in data science:
    -  [50 Questions](https://www.simplilearn.com/tutorials/data-science-tutorial/data-science-interview-questions)
-   -  [L:11](https://leetcode.com/problems/graph-connectivity-with-threshold/)
 
 ## Systems Design
-   -  [System Design](https://github.com/donnemartin/system-design-primer)
+Study this only if you have previous work experience in such field:
+   -  [System Design Primer](https://github.com/donnemartin/system-design-primer)
+   -  [Capacity Estimation Problem](https://www.youtube.com/watch?v=0myM0k1mjZw&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX&index=13) Such Questions are rarely asked
+  - [System Design: YT Gaurav sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw/playlists) His system Design playlist is nice. But it is rarely asked in the coding tests and interviews
+  - [Do's and Dont's of system design interview](https://www.youtube.com/watch?v=CtmBGH8MkX4&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX&index=24) Such Questions are rarely asked in campus placements. Study this only if you have previous internship experience in a related field
 
 
 <!-- Competitive Game Theory assumes each candidate as the best candidate -->
 <!-- In a Competitive Situation, Game Theory can tell you how to be smart. -->
 
+If you have been through this phase, and if you've got something to contribute to this page, feel free to reah out to me or submit a merge request.
 If you're a junior, I'd wish you luck for your placements.
+Once again, help me spread the words!!
+
 Be smart and happy new year :)
