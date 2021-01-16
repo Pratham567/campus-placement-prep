@@ -30,8 +30,14 @@ Here's a broad breakdown that I feel are required for successful preparation for
   <br><br>
 **One key thing I would like to emphasize here is that having a good understanding of Data Dtructures and Algorithms is very important but may not be sufficient for some companies like Uber, Codenation, Alphonse among others. These companies also look for your coding style, which I'll disucss later in this doc.**
 
-<!-- - [Coding Interview Questions](https://www.interviewbit.com/coding-interview-questions) -->
-
+<!-- - [Coding Interview Questions](https://www.interviewbit.com/coding-interview-questions) By the end of the preparation, should have solved all these questions-->
+## Resume
+   - [Link-1](https://www.youtube.com/channel/UCZJlMUYdbtzQ8tVfLvK1KvQ)
+   - [Employment Skills](https://www.thebalancecareers.com/employment-skills-listed-by-job-2062389)
+   - [How to Write a Resume: Socratia YT](https://www.youtube.com/watch?v=pkrzrURID1w&list=PLi01XoE8jYoj2mHt0EFT3B6UJ1g_I33LS)
+## Placement Series
+Before you actually start working on your coding skills, I'd recommend going through this playlist. Most of the videos in this series are generic and could be skipped
+  -  [Jenny's Placement Series](https://www.youtube.com/playlist?list=PLdo5W4Nhv31YvlDpJhvOYbM9Ap8UypgEy)
 
 ## Communication skills
   It includes a video series about English and communication skills. Companies usually skip communication test in tier 1 and tier 2 colleges of India. Ignore this section if you have a good hold of English.
@@ -77,7 +83,8 @@ Once, you have decided to go with a particular language, the following link will
     Other Links (Optional)
 <br>
 
-   - [cpp Nuts: Topic wise videos](https://www.youtube.com/channel/UCs6sf4iRhhE875T1QjG3wPQ/join)
+   - [YT: cpp Nuts: Topic wise videos](https://www.youtube.com/channel/UCs6sf4iRhhE875T1QjG3wPQ/join)
+   - [YT: Fit Coder](https://www.youtube.com/channel/UCX6rLou1VXXPVsORMVkUryg) This channel is new, but he explains nicely
 ## DS and Algo
     This is the **Most Important** section and is a must do for every programmers, as it opens up the various insights about programming. Below are some of the links that I used as reference during my preparations. These are the most important Data Structures to be studied:
 * Arrays
@@ -98,15 +105,14 @@ Once, you have decided to go with a particular language, the following link will
 <br>
     I'll try to point out the specific topics that I referenced, as going through everything would unnecessarily suck up time.
 
-   - [YT: TechDose](https://www.youtube.com/c/TECHDOSE4u/playlists)
-   - [Youtube:Terrible Whiteboard, for leetcode problems](https://www.youtube.com/c/TerribleWhiteboard/playlists)
-   - [YT: Errichto](https://www.youtube.com/c/Errichto/playlists): He explains great
-   - [mycodeschool: YT](https://www.youtube.com/user/mycodeschool/playlists)
-   - [60 must solve problems for placements](https://medium.com/@koheiarai94/60-leetcode-questions-to-prepare-for-coding-interview-8abbb6af589e)
+   - [mycodeschool: YT](https://www.youtube.com/user/mycodeschool/playlists) Must Watch. All his playlists are great.
+   - [YT: TechDose](https://www.youtube.com/c/TECHDOSE4u/playlists) This guys explains the concepts and problem solutions beautifully. I have watched almost all of his videos.
+   - [YT: Aditya Verma](https://www.youtube.com/channel/UC5WO7o71wvxMxEtLRkPhiQQ) Go through his DP playlist, he explains in Hindi but approach is nice. He relates the problems with one another.
+   - [Tushor roy](https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw) His DP playlist is good, but sometimes he doesn't explain the logic properly. His DP playlist has a set of important problems. I would recommend having a clear understamding of all thos problems. If these videos aren't clear, try researching the internet.
+   - [YT: Errichto](https://www.youtube.com/c/Errichto/playlists): He explains great. Refer him if you want in depth understanding of a topic
    - [Code Monk HackerEarth](https://www.hackerearth.com/practice/codemonk/)
    - [Programming Interview](https://www.youtube.com/watch?v=NBcqBddFbZw&list=PLamzFoFxwoNjPfxzaWqs7cZGsPYy0x_gI)
    - [GFG](https://www.geeksforgeeks.org/)
-   - [Tushor roy](https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw)
    - [Gaurav sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw/playlists)
    - [Abdul Bari: Concepts and Algos](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw)
    - [Advance Programming concept](https://www.youtube.com/watch?v=vZ2Wn6Ly8Ok&list=PL713C10F05D6BB7BF)
@@ -123,7 +129,7 @@ Once, you have decided to go with a particular language, the following link will
    - [New YT Channel](https://www.youtube.com/channel/UC8CHx7QxLADQcwq-9X_fftQ)
    - [Inverse Modulo](https://www.geeksforgeeks.org/multiplicative-inverse-under-modulo-m/)
    - [YT: Code N Code: good for graphs](https://www.youtube.com/channel/UC0zvY3yIBQTrSutsV-4yscQ)
-   - [YT: Aditya Verma. His DP problems approach is nice](https://www.youtube.com/channel/UC5WO7o71wvxMxEtLRkPhiQQ)
+   - [Youtube:Terrible Whiteboard, for leetcode problems](https://www.youtube.com/c/TerribleWhiteboard/playlists)
 
 ## OS
    - [Link-1](https://www.youtube.com/watch?v=2i2N_Qo_FyM&list=PLEbnTDJUr_If_BnzJkkN_J0Tl3iXTL8vq)
@@ -141,39 +147,25 @@ Once, you have decided to go with a particular language, the following link will
 ## OOPS
    -  [OOPS Interview Questions](https://www.edureka.co/blog/interview-questions/oops-interview-questions/)
    -  [Link-2](https://www.geeksforgeeks.org/commonly-asked-oop-interview-questions/)
+
 ## Interview
 This section would highlight the essentials that are required for interviews. The best time to go through these links is about 1 month before the actual interviews (November if you're from an IIT, because interviews starts in December). This should be done in parllel to your current preparations and as the interview approaches, put in more time to it:
    - [Must do Coding Interview for Companies](https://www.geeksforgeeks.org/must-coding-questions-company-wise/#oracle)
    - [Top 20 DP interview questions](https://www.geeksforgeeks.org/top-20-dynamic-programming-interview-questions/)
-   - [Interview Tips and Tricks(Resume)](https://www.youtube.com/playlist?list=PLrk5tgtnMN6RsjCaAndmEQJSIjx__7fDq)
-   - [Interview Problems: Coding Ninjas](https://www.youtube.com/playlist?list=PLrk5tgtnMN6QkNhdIiClZIhxJGwzCEVv9)
+   - [Interview Tips and Tricks: Coding Ninjas](https://www.youtube.com/playlist?list=PLrk5tgtnMN6QkNhdIiClZIhxJGwzCEVv9)
+   - [Interview Experience: Coding Ninjas](https://www.youtube.com/playlist?list=PLrk5tgtnMN6Q_mSckdtLgaMIs5ygMqy-3)
    - [Interview Problems](https://www.youtube.com/watch?v=lqYz8wlTnL0&feature=emb_logo)
    - [Mock Interviews](https://www.youtube.com/playlist?list=PLrk5tgtnMN6SPbActGrY9yloYYGO7GMUh)
    - [GFG Practice for Coding Interview](https://www.geeksforgeeks.org/practice-for-cracking-any-coding-interview/)
-   - [Capacity Estimation Problem](https://www.youtube.com/watch?v=0myM0k1mjZw&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX&index=13)
    - [Get started for Technical Interviews](https://www.geeksforgeeks.org/get-started-technical-interviews/)
    - [Interview Mistakes-1](https://www.geeksforgeeks.org/10-mistakes-people-tend-to-do-in-an-interview/)
    - [Behavioural Interview Questions](https://www.geeksforgeeks.org/6-tips-to-prepare-behavioural-interview-questions/)
    - [Common Mistakes in Technical Onsite Interviews](https://www.geeksforgeeks.org/top-5-common-mistakes-in-technical-on-site-interviews/)
-   - [Do's and Dont's of system design interview](https://www.youtube.com/watch?v=CtmBGH8MkX4&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX&index=24)
-   - [After Preparation](https://www.youtube.com/watch?v=pkrzrURID1w&list=PLi01XoE8jYoj2mHt0EFT3B6UJ1g_I33LS)
-   - [Fight Imposter Syndrome](https://www.youtube.com/watch?v=JtGBDv1Jwmc&list=PLi01XoE8jYoj2mHt0EFT3B6UJ1g_I33LS&index=5)
+   - [Fight Imposter Syndrome](https://www.youtube.com/watch?v=JtGBDv1Jwmc&list=PLi01XoE8jYoj2mHt0EFT3B6UJ1g_I33LS&index=5) Very Important
    - [YT Jenny's: Job Interview MISTAKES everyone makes](https://www.youtube.com/watch?v=DUthrBoaADo&list=PLdo5W4Nhv31YvlDpJhvOYbM9Ap8UypgEy&index=20)
+   - [Do's and Dont's of system design interview](https://www.youtube.com/watch?v=CtmBGH8MkX4&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX&index=24) Such Questions are rarely asked in campus placements. Study this only if you have previous internship experience in a related field
+   - [Capacity Estimation Problem](https://www.youtube.com/watch?v=0myM0k1mjZw&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX&index=13) Such Questions are rarely asked
 
-## Cloud Dev Interview
-Since, I have done internships in Cloud, I studied this as part of preparation for my interviews. While this may not be required for all the students, but the following video highlights the latest development techonologies, which could be a great point to discuss in your interviews. However, the student has to find a spot on where to bring up these points as the interviewer may not bring it up by himself:
-   -  [Dev-Prod Parity](https://vomtom.at/local-development-vs-virtual-box-vs-vagrant-vs-container-vs-docker-and-kubernetes/)
-
-
-## Placement Series
-   - [Jenny's Placement Series](https://www.youtube.com/playlist?list=PLdo5W4Nhv31YvlDpJhvOYbM9Ap8UypgEy)
-
-## Resume
-   - [Link-1](https://www.youtube.com/channel/UCZJlMUYdbtzQ8tVfLvK1KvQ)
-   - [Employment Skills](https://www.thebalancecareers.com/employment-skills-listed-by-job-2062389)
-
-## Others
-   - [Jenny's YT](https://www.youtube.com/c/JennyslecturesCSITNETJRF/playlists)
 
 ## Other Links
   - [LeetCode-Topicwise-Solutions](https://github.com/black-shadows/LeetCode-Topicwise-Solutions)
@@ -183,9 +175,28 @@ Since, I have done internships in Cloud, I studied this as part of preparation f
   - [Hackerearth Problem Solutions](https://github.com/pritampatel738/H-E-Problem-Solutions-C-)
   - [Problem-Solving-Solutions](https://github.com/joy-mollick/Problem-Solving-Solutions) This has solutions to problems of Leetcode, HackerEarth, Codeforces, Light Oj, SPOJ, e-Olymp.
   - [HackerRank Solutions](https://www.martinkysel.com/hackerrank-solutions/)
-  - 
-## The pref flow, based on which year a student is currently in;
-   TBD
+  - [Jenny's YT](https://www.youtube.com/c/JennyslecturesCSITNETJRF/playlists)
+
+## Graph Theory
+   -  [YT: Code NCode](https://www.youtube.com/watch?v=VW85xQ6GJP4&list=PL2q4fbVm1Ik6DCzm9XZJbNwyHtHGclcEh)
+   -  [Eulerian Path directed graph](https://www.geeksforgeeks.org/fleurys-algorithm-for-printing-eulerian-path/?ref=rp)
+   -  [Eulerian Path undirected](https://www.geeksforgeeks.org/eulerian-path-undirected-graph/) 
+   -  [Eulerian Path & Circuit undirected](https://www.geeksforgeeks.org/eulerian-path-and-circuit/)
+   -  [Hamiltonian Path]()
+   -  [Visual Algo](https://visualgo.net/en) This website visually explains the graph theory
+   -  [How can I be good at graph theory based programming problems in competitive programming](https://www.quora.com/How-can-I-be-good-at-graph-theory-based-programming-problems-in-competitive-programming/answer/Pushkar-Mishra?srid=uW2Yh)
+   -  
+## Practice Coding Problems
+   - [60 must solve problems for placements](https://medium.com/@koheiarai94/60-leetcode-questions-to-prepare-for-coding-interview-8abbb6af589e)
+   - [GFG Practice](https://practice.geeksforgeeks.org/topic-tags/?ref=home) 
+
+
+## Other important Links
+   -  [Link 1](https://www.geeksforgeeks.org/suffix-array-set-1-introduction/)
+   -  [Likn-2](https://www.geeksforgeeks.org/count-distinct-substrings-string-using-suffix-trie/)
+   -  [Link-3](https://www.geeksforgeeks.org/count-distinct-substrings-string-using-suffix-array/)
+   -  [Link-4](https://www.geeksforgeeks.org/find-maximum-subset-xor-given-set/)
+   -  [Link-5](https://www.geeksforgeeks.org/find-the-maximum-subarray-xor-in-a-given-array/)
 
 ## SQL
    - [W3Schools](https://www.w3schools.com/sql/)
@@ -202,45 +213,21 @@ Since, I have done internships in Cloud, I studied this as part of preparation f
 ## OS MCQs
    - [Practice MCQs](https://foxoyo.com/mcq/20765/if-a-kernel-thread-performs-a-blocking-system-call)
 
-## Other
+## References
+   -  [CodeChef: Learn Data Structures and Algorithms](https://www.codechef.com/certification/data-structures-and-algorithms/prepare)  
+   -  [L:2](https://docs.google.com/document/d/16Po_AFpfi-S-rkX2qwllCMjPHeqxz8LnfnF0y7dzSDo/edit)
+## Other 
+   - [Youtube: GateSmasher, just before interview](https://www.youtube.com/playlist?list=PLxCzCOWd7aiFjkQbGj_yHeTEVPn422_z5) I studied OS, DBMS, Networks from this
+   - [YT: take U forward](https://www.youtube.com/channel/UCJskGeByzRRSvmOyZOz61ig/playlists) He has good placement Series.
+
+## Cloud Dev Interview
+Since, I have done internships in Cloud, I studied this as part of preparation for my interviews. While this may not be required for all the students, but the following video highlights the latest development techonologies, which could be a great point to discuss in your interviews. However, the student has to find a spot on where to bring up these points as the interviewer may not bring it up by himself:
+   - [Dev-Prod Parity](https://vomtom.at/local-development-vs-virtual-box-vs-vagrant-vs-container-vs-docker-and-kubernetes/)
    - [Openstack](https://www.youtube.com/watch?v=fLGaNd4Z9qs)
    - [Openstack 2](https://kumul.us/what-is-openstack/)
    - [Kumulus YT Channel](https://www.youtube.com/channel/UCDns3t_P5wuPNSvMaHwTeLQ)
    - [Tom Gregory: YT: Scaling Dev Productivity](https://www.youtube.com/channel/UCxOVEOhPNXcJuyfVLhm_BfQ/videos)
    - [Cloud Security](https://www.youtube.com/playlist?list=PLOspHqNVtKACfjqfEwR3iKz1gJILKj5Tn)
-   - [Youtube: GateSmasher, just before interview](https://www.youtube.com/playlist?list=PLxCzCOWd7aiFjkQbGj_yHeTEVPn422_z5)
-   - [YT: take U forward](https://www.youtube.com/channel/UCJskGeByzRRSvmOyZOz61ig/playlists) He has good placement Series.
-
-## Graph
-   -  [YT: Code NCode](https://www.youtube.com/watch?v=VW85xQ6GJP4&list=PL2q4fbVm1Ik6DCzm9XZJbNwyHtHGclcEh)
-   -  [Eulerian Path directed graph](https://www.geeksforgeeks.org/fleurys-algorithm-for-printing-eulerian-path/?ref=rp)
-   -  [Eulerian Path undirected](https://www.geeksforgeeks.org/eulerian-path-undirected-graph/) 
-   -  [Eulerian Path & Circuit undirected](https://www.geeksforgeeks.org/eulerian-path-and-circuit/)
-   -  [Hamiltonian Path]()
-   -  [Visual Algo](https://visualgo.net/en) This website visually explains the graph theory
-   -  [How can I be good at graph theory based programming problems in competitive programming](https://www.quora.com/How-can-I-be-good-at-graph-theory-based-programming-problems-in-competitive-programming/answer/Pushkar-Mishra?srid=uW2Yh)
-   -  
-
-
-## Other important Links
-   -  [Link 1](https://www.geeksforgeeks.org/suffix-array-set-1-introduction/)
-   -  [Likn-2](https://www.geeksforgeeks.org/count-distinct-substrings-string-using-suffix-trie/)
-   -  [Link-3](https://www.geeksforgeeks.org/count-distinct-substrings-string-using-suffix-array/)
-   -  [Link-4](https://www.geeksforgeeks.org/find-maximum-subset-xor-given-set/)
-   -  [Link-5](https://www.geeksforgeeks.org/find-the-maximum-subarray-xor-in-a-given-array/)
-
-## Practice
-   - [GFG Practice](https://practice.geeksforgeeks.org/topic-tags/?ref=home) 
-## Systems Design
-   -  [System Design](https://github.com/donnemartin/system-design-primer)
-
-## References
-   -  [L:1](https://www.codechef.com/certification/data-structures-and-algorithms/prepare)  
-   -  [L:2](https://docs.google.com/document/d/16Po_AFpfi-S-rkX2qwllCMjPHeqxz8LnfnF0y7dzSDo/edit)
-   -  
-## Data Science Interview Questions
-   -  [50 Questions](https://www.simplilearn.com/tutorials/data-science-tutorial/data-science-interview-questions)
-
 ## TBD
    -  [L:1](https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/jenny-and-water-7-d0337cc3-ec2c1136/)
    -  [L:2](https://leetcode.com/discuss/interview-question/783699/recycling-cartridges-oa-hackerrank)
@@ -253,7 +240,15 @@ Since, I have done internships in Cloud, I studied this as part of preparation f
    -  [L:9](https://leetcode.com/discuss/interview-question/892579/paint-the-ceiling-swe-hackerrank-test)
    -  [L:10](https://www.hackerearth.com/problem/algorithm/killjee-and-2-divisors-1-6d590ba7-6a701fb0/)
    -  [L:11](https://leetcode.com/problems/interleaving-string/)
+
+
+## Data Science Interview Questions
+   -  [50 Questions](https://www.simplilearn.com/tutorials/data-science-tutorial/data-science-interview-questions)
    -  [L:11](https://leetcode.com/problems/graph-connectivity-with-threshold/)
+
+## Systems Design
+   -  [System Design](https://github.com/donnemartin/system-design-primer)
+
 
 <!-- Competitive Game Theory assumes each candidate as the best candidate -->
 <!-- In a Competitive Situation, Game Theory can tell you how to be smart. -->
