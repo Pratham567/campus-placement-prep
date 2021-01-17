@@ -250,10 +250,13 @@ Study this only if you have previous work experience in such field:
 
 
 <!-- Competitive Game Theory assumes each candidate as the best candidate -->
-<!-- In a Competitive Situation, Game Theory can tell you how to be smart. -->
 
-If you have been through this phase, and if you've got something to contribute to this page, feel free to reah out to me or submit a merge request.
-If you're a junior, I'd wish you luck for your placements.
-Once again, help me spread the words!!
+**If you have been through the campus placements phase, and if you've got something to contribute to this page, feel free to reah out to me or submit a merge request**<br>
+
+If you're a junior, wish you luck for your placements. <br>
+
+    Remember: In a Competitive Situation, Game Theory can tell you how to be smart
+
+**Once again, help me spread the words!!**
 
 Be smart and happy new year :)
