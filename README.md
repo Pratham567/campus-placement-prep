@@ -88,7 +88,7 @@ Since, I used cpp, here are some of the links that will help you train DSA in cp
    - [YT: cpp Nuts: Topic wise videos](https://www.youtube.com/channel/UCs6sf4iRhhE875T1QjG3wPQ/join)
    - [YT: Fit Coder](https://www.youtube.com/channel/UCX6rLou1VXXPVsORMVkUryg) This channel is new, but he explains nicely
 ## DS and Algo
-    This is the **Most Important** section and is a must do for every programmers, as it opens up the various insights about programming. Below are some of the links that I used as reference during my preparations. These are the most important Data Structures to be studied:
+This is the **Most Important** section and is a must do for every programmers, as it opens up the various insights about programming. Below are some of the links that I used as reference during my preparations. These are the most important Data Structures to be studied:
 * Arrays
 * Strings
 * Linked Lists
@@ -111,24 +111,23 @@ Since, I used cpp, here are some of the links that will help you train DSA in cp
    - [Data Structure tutorial](https://www.hackerearth.com/practice/data-structures/arrays/1-d/tutorial/) Read as you practice.
    - [YT: TechDose](https://www.youtube.com/c/TECHDOSE4u/playlists) This guys explains the concepts and problem solutions beautifully. I have watched almost all of his videos.
    - [YT: Aditya Verma](https://www.youtube.com/channel/UC5WO7o71wvxMxEtLRkPhiQQ) Go through his DP playlist, he explains in Hindi but approach is nice. He relates the problems with one another.
-   - [Tushor roy](https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw) His DP playlist is good, but sometimes he doesn't explain the logic properly. His DP playlist has a set of important problems. I would recommend having a clear understamding of all thos problems. If these videos aren't clear, try researching the internet.
+   - [Tushor roy](https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw) His DP playlist is good, but sometimes he doesn't explain the logic properly. His DP playlist has a set of important problems. I would recommend having a clear understanding of all those problems. If these videos aren't clear to you, try researching the internet.
    - [GFG](https://www.geeksforgeeks.org/) The Bible of CP. Read the articles now and then whenever you have time.
-   - [YT: Errichto](https://www.youtube.com/c/Errichto/playlists): He explains great. Refer him if you want in depth understanding of a topic
    - [Abdul Bari: Concepts and Algos](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw) Nice Explanation, but he doesn't provides code. Refer him, if you want to get an understanding of an algorithm
-   - [Graphs: Hackerearth](https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/tutorial/) Skip the last few topics
+   - [Graphs: Hackerearth](https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/tutorial/) Skip the last three topics
    - [Algorithm Tutorials and Practice: hackerearth](https://www.hackerearth.com/practice/algorithms/)
-   - [YT: Code N Code](https://www.youtube.com/channel/UC0zvY3yIBQTrSutsV-4yscQ) This channel is good for learning Graph Theory
-   - [Code N Code YT](https://www.youtube.com/channel/UC0zvY3yIBQTrSutsV-4yscQ/playlists)
+   - [Code N Code YT](https://www.youtube.com/channel/UC0zvY3yIBQTrSutsV-4yscQ/playlists) This channel is good for learning Graph Theory
    - [CodeChef: Learn Data Structures and Algorithms](https://www.codechef.com/certification/data-structures-and-algorithms/prepare)  
    - [DSA: YT Coding By Fun](https://www.youtube.com/channel/UC8CHx7QxLADQcwq-9X_fftQ) This is a new YT channel and has explains properly
-   - [Inverse Modulo](https://www.geeksforgeeks.org/multiplicative-inverse-under-modulo-m/)
+   - [Inverse Modulo](https://www.geeksforgeeks.org/multiplicative-inverse-under-modulo-m/) This is an important topic and is usually asked in highly competitive companies like Uber, Alphonso, etc
    - [Coding Blocks: YT](https://www.youtube.com/channel/UCICWIYEx2mo4wYZzLwJ7wVw/playlists) 
-   - [Advance Ds and Algo](https://e-maxx.ru/algo/) This link has some advance algos. I rarely used this link
+   - [YT: Errichto](https://www.youtube.com/c/Errichto/playlists): He explains great. Refer him if you want in depth understanding of a topic
+   - [Advance Ds and Algo](https://e-maxx.ru/algo/) This link has some advance algos. I rarely used this link. Refer only if you are really interested and have time
    - [Youtube:Terrible Whiteboard, for leetcode problems](https://www.youtube.com/c/TerribleWhiteboard/playlists) Leetcode problems solution. Refer this if you are stuck at a particular LC problem or if you couldn't understand the logic properly
 
 ## Graph Theory
    -  [How can I be good at graph theory based programming problems in competitive programming](https://www.quora.com/How-can-I-be-good-at-graph-theory-based-programming-problems-in-competitive-programming/answer/Pushkar-Mishra?srid=uW2Yh)
-   - [Graphs: Hackerearth](https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/tutorial/) Skip the last few topics
+   - [Graphs: Hackerearth](https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/tutorial/) Skip the last three topics. If the topics like articulation point is still not clear, refer YT channel techdose.
    -  [Graph Theory Overview: YT Code NCode](https://www.youtube.com/watch?v=VW85xQ6GJP4&list=PL2q4fbVm1Ik6DCzm9XZJbNwyHtHGclcEh)
    -  [Doscjoint Set: YT Code NCode](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik4JdzE2Bv_UUGBz0TXEIrai) Important Topic, used invarious graph theory algorithms
    -  [Visual Algo](https://visualgo.net/en) This website visually explains the graph theory <br>
@@ -145,19 +144,19 @@ Competitive Programming is all about practice. The more you practice, more bette
    - [60 must solve problems for placements](https://medium.com/@koheiarai94/60-leetcode-questions-to-prepare-for-coding-interview-8abbb6af589e) Important practice Problems
    - [GFG Practice](https://practice.geeksforgeeks.org/topic-tags/?ref=home) Practice here everyday, once you have a good hold of your DSA concepts.
    - [Code Monk HackerEarth](https://www.hackerearth.com/practice/codemonk/) Practice here if you find practicing on GFG monotonous.
-   - [Online Platform to Practice- hackerearth](https://www.hackerearth.com/practice/) try to solve some problems randomly if you are not confident in a particular topic
-   - [Online Platform to Practice- codechef](https://www.codechef.com/problems/school) try to solve some problems randomly if you are not confident in a particular topic
+   - [Online Platform to Practice- hackerearth](https://www.hackerearth.com/practice/) try to solve some problems topicwise if you are not confident in a particular topic
+   - [Online Platform to Practice- codechef](https://www.codechef.com/problems/school) try to solve some problems topicwise if you are not confident in a particular topic
 
 ## OOPs
 Typically asked in Interviews, but one of the most important important topics:
-   -  [OOPS Interview Questions](https://www.edureka.co/blog/interview-questions/oops-interview-questions/)
-   -  [Link-2](https://www.geeksforgeeks.org/commonly-asked-oop-interview-questions/)
+   -  [OOPs Interview Questions: Edureka](https://www.edureka.co/blog/interview-questions/oops-interview-questions/)
+   -  [OOPs interview Questions: GFG](https://www.geeksforgeeks.org/commonly-asked-oop-interview-questions/)
 
 ## OS
    - [Operating Systems Playlist: YT Ravula](https://www.youtube.com/watch?v=2i2N_Qo_FyM&list=PLEbnTDJUr_If_BnzJkkN_J0Tl3iXTL8vq)
    - [OS for Programming Interview: YT SauravSchool](https://www.youtube.com/watch?v=nZRqPctQf8U&list=PLTZbNwgO5ebqnympIYe2GX4hjjsS9Psdm) Good for Revision
    - [Practice MCQs: Foxoyo](https://foxoyo.com/)
-   - [Hand written notes pdf](https://drive.google.com/file/d/1vF4gEE35remfvht_NYNCbsqhFNH1Opba/view?usp=sharing)
+   - [Hand written notes (pdf)](https://drive.google.com/file/d/1vF4gEE35remfvht_NYNCbsqhFNH1Opba/view?usp=sharing)
    
 ## DBMS
    - [DBMS Playlist: YT Ravula](https://www.youtube.com/watch?v=1057YmExS-I&list=PLEbnTDJUr_Ic_9b4PcKmlae41cyxEefot)
@@ -178,10 +177,10 @@ Some links to study Computer Networks:
    - [GradeUp Notes](https://gradeup.co/computer-science-engineering-exams/computer-networks)
    - [Top Interview Questions](https://www.guru99.com/networking-interview-questions.html)
    - [GFG Commonly Asked Networking Questions](https://www.geeksforgeeks.org/commonly-asked-computer-networks-interview-questions-set-1/)
-   - [Practice MCQs](https://compsciedu.com/mcq-questions/Networking/Network-Models/10)
-   - [Practice MCQs](https://www.sanfoundry.com/computer-networks-mcqs-reference-models/)
+   - [Practice MCQs 1](https://compsciedu.com/mcq-questions/Networking/Network-Models/10)
+   - [Practice MCQs 2](https://www.sanfoundry.com/computer-networks-mcqs-reference-models/)
 
-## Some Other Important Problems
+## Some Important Problems
    -  [P:1](https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/jenny-and-water-7-d0337cc3-ec2c1136/)
    -  [P:2](https://leetcode.com/discuss/interview-question/783699/recycling-cartridges-oa-hackerrank)
    -  [P:3](https://leetcode.com/problems/minimum-cost-to-merge-stones/)
@@ -194,6 +193,11 @@ Some links to study Computer Networks:
    -  [P:10](https://www.hackerearth.com/problem/algorithm/killjee-and-2-divisors-1-6d590ba7-6a701fb0/)
    -  [P:11](https://leetcode.com/problems/interleaving-string/)
    -  [P:12](https://leetcode.com/problems/graph-connectivity-with-threshold/)
+   -  [P:13](https://www.geeksforgeeks.org/suffix-array-set-1-introduction/)
+   -  [P:14](https://www.geeksforgeeks.org/count-distinct-substrings-string-using-suffix-trie/)
+   -  [P:15](https://www.geeksforgeeks.org/count-distinct-substrings-string-using-suffix-array/)
+   -  [P:16](https://www.geeksforgeeks.org/find-maximum-subset-xor-given-set/)
+   -  [P:17](https://www.geeksforgeeks.org/find-the-maximum-subarray-xor-in-a-given-array/)
 
 ## Interview Practice
 This section would highlight the essentials that are required for interviews. The best time to go through these links is about 1 month before the actual interviews (November if you're from an IIT, because interviews starts in December). This should be done in parllel to your current preparations and as the interview approaches, put in more time to it. Most if the material will seems to be already covered and could be seen as revision:
@@ -213,20 +217,16 @@ This section would highlight the essentials that are required for interviews. Th
    - [YT Jenny's: Job Interview MISTAKES everyone makes](https://www.youtube.com/watch?v=DUthrBoaADo&list=PLdo5W4Nhv31YvlDpJhvOYbM9Ap8UypgEy&index=20)
 
 ## Other Links
+The following links have solutions to some of the standard problems of the websites like IB, Leetcode, HackerRank, HackerEarth. Refer these links if you find yourself stuck to a problem and could not find its solution. Also refere this, if you would like to get an alternative approach to the problem:
   - [LeetCode-Topicwise-Solutions](https://github.com/black-shadows/LeetCode-Topicwise-Solutions)
-  - [IB Solutions](https://github.com/shreya367/InterviewBit)
+  - [IB Solutions 1](https://github.com/shreya367/InterviewBit)
   - [InterviewBit-Topicwise-Solutions](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions)
-  - [IB Solutions](https://github.com/SKantar/InterviewBit)
+  - [IB Solutions 2](https://github.com/SKantar/InterviewBit)
   - [Hackerearth Problem Solutions](https://github.com/pritampatel738/H-E-Problem-Solutions-C-)
   - [Problem-Solving-Solutions](https://github.com/joy-mollick/Problem-Solving-Solutions) This has solutions to problems of Leetcode, HackerEarth, Codeforces, Light Oj, SPOJ, e-Olymp.
   - [HackerRank Solutions](https://www.martinkysel.com/hackerrank-solutions/)
   - [Jenny's YT](https://www.youtube.com/c/JennyslecturesCSITNETJRF/playlists)
-   -  [Link 1](https://www.geeksforgeeks.org/suffix-array-set-1-introduction/)
-   -  [Likn-2](https://www.geeksforgeeks.org/count-distinct-substrings-string-using-suffix-trie/)
-   -  [Link-3](https://www.geeksforgeeks.org/count-distinct-substrings-string-using-suffix-array/)
-   -  [Link-4](https://www.geeksforgeeks.org/find-maximum-subset-xor-given-set/)
-   -  [Link-5](https://www.geeksforgeeks.org/find-the-maximum-subarray-xor-in-a-given-array/)
-   -  [L:2](https://docs.google.com/document/d/16Po_AFpfi-S-rkX2qwllCMjPHeqxz8LnfnF0y7dzSDo/edit)
+  - [Link-6](https://docs.google.com/document/d/16Po_AFpfi-S-rkX2qwllCMjPHeqxz8LnfnF0y7dzSDo/edit)
 
 ## Cloud Dev Interview
 Since, I have done internships in Cloud, I studied this as part of preparation for my interviews. While this may not be required for all the students, but the following video highlights the latest development techonologies, which could be a great point to discuss in your interviews. However, the student has to find a spot on where to bring up these points as the interviewer may not bring it up by himself:
