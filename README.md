@@ -9,7 +9,6 @@ As of December 2020, I am a final year undergraduate student at the Department o
 It starts around September/October. The first few weeks are for Resume building and Verification. This typically involves gathering all the certificates and documents about the achievements that a student wants to write in his/her resume. I personally believe IITR has a strict verification process and a student has to prove everything except his name, branch, year, and cgpa. After this, companies start visiting the campus and organize a Pre-Placement Talk (PPT). After the PPT, they organize tests/competitions depending upon the job profile they are offering. These competitions could range from group discussions to guestimates to submitting assignments. These things i.e.the PPTs and the tests for different companies happen in parallel and could happen at any point in time in a day. Some of my friends who applied in international positions had to attend PPTs even after midnight, and sometimes as early as 4 AM. The same happens with the tests as well. This happens for months (typically till mid-December). Meanwhile, after the second week of November, companies start to announce the list of students who have made through the tests and are shortlisted for interviews. They also announce the waitlisted students, but all the interviews happen together starting December 1st at midnight, with the exceptions of the PSUs (these may happen any day earlier). Interviews happen in slots, and each slot has multiple companies, and their interviews happen in parallel. A student can have two interviews at the same time, but he has to manage it by himself, also the placements teams are quite supportive in this as well. Before every interview slot, each student has to fill in the priority form for the companies interviewing in a particular slot in case a student gets multiple offers from the same slot. Once a student gets an offer, he has to accept it and he is out of the placement session.
 
 ## Campus Placement Preparation (Software) (&#x1F4D8;):
-
 No doubt, getting a decent job in the software will requre good problem-solving coding skills, but that's not enough. There are some qualities like teamwork, leadership, communication skills, among others, which are also crucial. While these are critical skills, I believe there are more skills, and they are very important, Patience and Persistence. Students must not get over-excited if they perform great in some contests/exams and they should be consistent enough all throughout. Sometimes, the best coders might not make it to them. This could be due to many reasons; maybe they couldn't make it in the aptitude round or lacked soft skills. Aptitude plays a key role in some of the companies. Also, the placement process usually takes about 4 months in most of the colleges, patience is very important as it helps in persisted improvement. One big challenge students face is that they do not follow a proper structure; rather, they rely on random blogs, videos for their preparation. Even I have faced this issue. To help the next generation, I will try to put down all the useful resources in this repo, which I found very useful while preparing for my campus placements.
 Since I prepared for softeware roles, all the details presented in this doc are inclined towards preparing for software roles.
 
@@ -32,9 +31,10 @@ Here's a broad breakdown that I feel are required for successful preparation for
 **One key thing I would like to emphasize here is that having a good understanding of Data Dtructures and Algorithms is very important but may not be sufficient for some companies like Uber, Codenation, Alphonse among others. These companies also look for your coding style, which I'll disucss later in this doc.**
 
 ## Resume
-   - [Link-1](https://www.youtube.com/channel/UCZJlMUYdbtzQ8tVfLvK1KvQ)
-   - [Employment Skills](https://www.thebalancecareers.com/employment-skills-listed-by-job-2062389)
+   - [Resume Secrets: YT Coding Ninjas](https://www.youtube.com/watch?v=AhaoGhCxuto&t=10s)
+   - [Prepare Projects for Resume: YT Coding Ninjas](https://www.youtube.com/watch?v=w3W8YRlaUUg)
    - [How to Write a Resume: Socratia YT](https://www.youtube.com/watch?v=pkrzrURID1w&list=PLi01XoE8jYoj2mHt0EFT3B6UJ1g_I33LS)
+   - [Employment Skills](https://www.thebalancecareers.com/employment-skills-listed-by-job-2062389) This will give idea about the skills you might want to add in your Resume.
 ## Placement Series
 Before you actually start working on your coding skills, I'd recommend going through this playlist. Most of the videos in this series are generic and could be skipped
   -  [Jenny's Placement Series](https://www.youtube.com/playlist?list=PLdo5W4Nhv31YvlDpJhvOYbM9Ap8UypgEy)
@@ -128,14 +128,14 @@ Once, you have decided to go with a particular language, the following link will
 ## Graph Theory
    -  [How can I be good at graph theory based programming problems in competitive programming](https://www.quora.com/How-can-I-be-good-at-graph-theory-based-programming-problems-in-competitive-programming/answer/Pushkar-Mishra?srid=uW2Yh)
    - [Graphs: Hackerearth](https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/tutorial/) Skip the last few topics
-   -  [Visual Algo](https://visualgo.net/en) This website visually explains the graph theory
    -  [Graph Theory Overview: YT Code NCode](https://www.youtube.com/watch?v=VW85xQ6GJP4&list=PL2q4fbVm1Ik6DCzm9XZJbNwyHtHGclcEh)
    -  [Doscjoint Set: YT Code NCode](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik4JdzE2Bv_UUGBz0TXEIrai) Important Topic, used invarious graph theory algorithms
-  The following are some important Graph Theory Problems
+   -  [Visual Algo](https://visualgo.net/en) This website visually explains the graph theory <br>
+  The following are some important Graph Theory Problems which should not be confused to be same
+   -  [Hamiltonian Path]()
    -  [Eulerian Path directed graph](https://www.geeksforgeeks.org/fleurys-algorithm-for-printing-eulerian-path/?ref=rp)
    -  [Eulerian Path undirected](https://www.geeksforgeeks.org/eulerian-path-undirected-graph/) 
    -  [Eulerian Path & Circuit undirected](https://www.geeksforgeeks.org/eulerian-path-and-circuit/)
-   -  [Hamiltonian Path]()
 
 ## Practice Coding Problems
 Competitive Programming is all about practice. The more you practice, more better you are at it. Here are some of the material which I used to practice during my prepration:
@@ -153,19 +153,19 @@ Typically asked in Interviews, but one of the most important important topics:
    -  [Link-2](https://www.geeksforgeeks.org/commonly-asked-oop-interview-questions/)
 
 ## OS
-   - [Link-1](https://www.youtube.com/watch?v=2i2N_Qo_FyM&list=PLEbnTDJUr_If_BnzJkkN_J0Tl3iXTL8vq)
-   - [Link-2](https://www.youtube.com/watch?v=nZRqPctQf8U&list=PLTZbNwgO5ebqnympIYe2GX4hjjsS9Psdm) 
-   - [Practice MCQs](https://foxoyo.com/mcq/20765/if-a-kernel-thread-performs-a-blocking-system-call)
+   - [Operating Systems Playlist: YT Ravula](https://www.youtube.com/watch?v=2i2N_Qo_FyM&list=PLEbnTDJUr_If_BnzJkkN_J0Tl3iXTL8vq)
+   - [OS for Programming Interview: YT SauravSchool](https://www.youtube.com/watch?v=nZRqPctQf8U&list=PLTZbNwgO5ebqnympIYe2GX4hjjsS9Psdm) Good for Revision
+   - [Practice MCQs: Foxoyo](https://foxoyo.com/)
    - [Hand written notes pdf](https://drive.google.com/file/d/1vF4gEE35remfvht_NYNCbsqhFNH1Opba/view?usp=sharing)
    
 ## DBMS
-   - [Link-1](https://www.youtube.com/watch?v=1057YmExS-I&list=PLEbnTDJUr_Ic_9b4PcKmlae41cyxEefot)
-   - [Link-2](https://www.youtube.com/watch?v=fvPddKyHxpQ&list=PL6n9fhu94yhXcztdLO7i6mdyaegC8CJwR)
-   - [Link-3](https://www.youtube.com/watch?v=iuwIxX1523s&list=PLy6I8jhggOX47RFnEaMSxrrBBIsUqkW64)
-   - [Crash Course](https://www.youtube.com/watch?v=u163_uYy6Yw&feature=emb_logo)
-   - [Link-5](https://www.interviewbit.com/tutorial/sql-command-help/)
+   - [DBMS Playlist: YT Ravula](https://www.youtube.com/watch?v=1057YmExS-I&list=PLEbnTDJUr_Ic_9b4PcKmlae41cyxEefot)
+   - [SQL Interview Questions: YT kudvenkat](https://www.youtube.com/watch?v=fvPddKyHxpQ&list=PL6n9fhu94yhXcztdLO7i6mdyaegC8CJwR)
+   - [DBMS Interview Questions: YT Wikitechy News](https://www.youtube.com/watch?v=iuwIxX1523s&list=PLy6I8jhggOX47RFnEaMSxrrBBIsUqkW64)
+   - [DBMS/SQL interview questions and concepts: YT Interviewbit](https://www.youtube.com/watch?v=u163_uYy6Yw&feature=emb_logo)
+   - [SQL Commands: Interviewbit](https://www.interviewbit.com/tutorial/sql-command-help/)
    - [SQL DB vs NoSQL DB](https://www.youtube.com/watch?v=xQnIN9bW0og) Important
-   - [SQL: W3Schools](https://www.w3schools.com/sql/)
+   - [SQL: W3Schools](https://www.w3schools.com/sql/) Read it for theory
    - [SQL: GradeUp Notes](https://gradeup.co/computer-science-engineering-exams/databases)
   
 ## Computer Networking
@@ -195,14 +195,14 @@ Some links to study Computer Networks:
    -  [P:12](https://leetcode.com/problems/graph-connectivity-with-threshold/)
 
 ## Interview Practice
-This section would highlight the essentials that are required for interviews. The best time to go through these links is about 1 month before the actual interviews (November if you're from an IIT, because interviews starts in December). This should be done in parllel to your current preparations and as the interview approaches, put in more time to it. Most if the material will seems to be already covered and could be seen as for revision:
+This section would highlight the essentials that are required for interviews. The best time to go through these links is about 1 month before the actual interviews (November if you're from an IIT, because interviews starts in December). This should be done in parllel to your current preparations and as the interview approaches, put in more time to it. Most if the material will seems to be already covered and could be seen as revision:
    - [Must do Coding Interview for Companies](https://www.geeksforgeeks.org/must-coding-questions-company-wise/#oracle)
    - [Top 20 DP interview questions](https://www.geeksforgeeks.org/top-20-dynamic-programming-interview-questions/)
    - [Programming Interview Questions: YT IDeserve](https://www.youtube.com/playlist?list=PLamzFoFxwoNjPfxzaWqs7cZGsPYy0x_gI)
    - [Interview Tips and Tricks: Coding Ninjas](https://www.youtube.com/playlist?list=PLrk5tgtnMN6QkNhdIiClZIhxJGwzCEVv9)
    - [Interview Experience: Coding Ninjas](https://www.youtube.com/playlist?list=PLrk5tgtnMN6Q_mSckdtLgaMIs5ygMqy-3)
-   - [Interview Problems](https://www.youtube.com/watch?v=lqYz8wlTnL0&feature=emb_logo)
-   - [Mock Interviews](https://www.youtube.com/playlist?list=PLrk5tgtnMN6SPbActGrY9yloYYGO7GMUh)
+   - [Interview Problems: YT Coding By Fun](https://www.youtube.com/watch?v=lqYz8wlTnL0&feature=emb_logo)
+   - [Mock Interviews Series: YT Coding Ninjas](https://www.youtube.com/playlist?list=PLrk5tgtnMN6SPbActGrY9yloYYGO7GMUh)
    - [GFG Practice for Coding Interview](https://www.geeksforgeeks.org/practice-for-cracking-any-coding-interview/)
    - [Get started for Technical Interviews](https://www.geeksforgeeks.org/get-started-technical-interviews/)
    - [Interview Mistakes-1](https://www.geeksforgeeks.org/10-mistakes-people-tend-to-do-in-an-interview/)
